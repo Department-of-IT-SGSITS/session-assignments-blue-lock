@@ -1,6 +1,10 @@
 # session-assignments-blue-lock
 
-This repository contains the CodeSync project uploaded to replace the previous contents of the remote repository.
+CodeSync demonstrates a production-oriented collaborative editing web app built on the MERN stack with 
+real-time capabilities using WebSockets and secure JWT authentication. The application balances fast, reactive 
+collaboration features (live presence, cursors, real-time patches) with persistent versioning and secure access 
+controls. From here you can extend the project by adding CRDT/OT for stronger conflict handling, file 
+attachments, fine-grained permission controls, and mobile clients..
 
 Contents:
 - server/: Express server and client app
